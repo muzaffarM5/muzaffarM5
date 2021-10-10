@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muzaffar Khan : @muzaffarM5
+- 👋 Hi, I’m Muzaffar Khan!
 - 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently learning React
 - 📫 Reach me on : https://www.linkedin.com/in/mohammad-muzaffar-khan-377a841a0
